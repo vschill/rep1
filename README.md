@@ -1,2 +1,2 @@
-# rep1
-My Repository #1
+# repo1
+My First Repository
